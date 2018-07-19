@@ -1,3 +1,3 @@
 Git is a distributed version control system
 Git is free
-Git is goo d
+Gi t is goo d
